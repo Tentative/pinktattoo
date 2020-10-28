@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Inky', sans-serif;
+  src: local('Inky'), url(../assets/fonts/Inky.ttf) format('truetype');
+}
+
+html {
+  font-family: 'Inky', sans-serif !important;
+}
+
+.v-application {
+  font-family: 'Inky', sans-serif !important;
+}
+
+.v-application .text-lg-h4,
+.v-application .text-md-h4,
+.v-application .text-xl-h4 {
+  font-family: 'Inky', sans-serif !important;
+}
